@@ -1,0 +1,27 @@
+updateDocsWhiteList:
+  - BUG
+  - Chore
+  - minor
+
+updateDocsComment: >
+  hamster
+requestInfoReplyComment: >
+  hamster
+requestInfoLabelToAdd: request-more-info
+
+newPRWelcomeComment: >
+  hamster
+firstPRMergeComment: >
+  Congrats on merging your first pull request here! :tada: How awesome!
+newIssueWelcomeComment: >
+  hamster
+sentimentBotToxicityThreshold: .7
+
+sentimentBotReplyComment: >
+  hamster
+lockThreads:
+  toxicityThreshold: .7
+  numComments: 2
+  setTimeInHours: 72
+  replyComment: >
+    hamster
