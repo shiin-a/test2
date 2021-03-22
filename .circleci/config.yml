@@ -11,3 +11,5 @@ workflows:
     # I want to have a hamster.
     jobs:
       - welcome/run
+      - welcome/run
+      - welcome/run
